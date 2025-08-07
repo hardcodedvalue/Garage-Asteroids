@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.hardcodednumber.asteroids": {
+      "version": "https://github.com/HardcodedNumber/GarageAsteroids.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5b4fdfb262bf6e9bf31a6017b3674b52e95bc1e8"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
